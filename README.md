@@ -1,9 +1,19 @@
-Corner Detection and Image Stitching
+# Corner Detection and Image Stitching
 
 ## Overview
 This project consists of two main components:
 1. Paper corner detection in video
 2. Panoramic image stitching
+---
+   
+![Screenshot from 2025-01-12 02-52-41](https://github.com/user-attachments/assets/ac6f9e78-adc2-469d-82f6-fd1c0d16f5db)
+
+---
+![Screenshot from 2025-01-12 02-51-20](https://github.com/user-attachments/assets/c2e4398d-83b7-427b-bccb-7848aa6c0904)
+
+![Screenshot from 2025-01-12 02-51-31](https://github.com/user-attachments/assets/bedfc760-d38d-4e4f-b18e-2e24a94aa436)
+
+![Screenshot from 2025-01-12 02-51-42](https://github.com/user-attachments/assets/53358bed-a09a-4256-90ce-c73aa6b99e22)
 
 ## Part 1: Paper Corner Detection
 
